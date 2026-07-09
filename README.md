@@ -40,10 +40,14 @@
 
 ## 🧠 Skills
 
-* HTML, CSS, JavaScript
-* Python (Learning DSA)
-* Basics of APIs
-* Git & GitHub
+* HTML, CSS, JavaScript (Frontend Development)
+* React.js (Component-based UI Development)
+* Python (Data Structures & Algorithms)
+* REST APIs & API Integration
+* Git & GitHub (Version Control)
+* Firebase (Authentication & Backend Services)
+* AI API Integration (OpenRouter)
+
 
 ---
 
