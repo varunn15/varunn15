@@ -16,6 +16,26 @@
 
 🔗 https://github.com/varunn15/movie-explorer-app
 
+### 🎬 Movie Explorer App (React Version)
+✔️ Real-time movie search (TMDB API)
+✔️ Authentication system (Firebase)
+✔️ Watch trailers inside the app
+✔️ Favorites & personalized experience
+✔️ Responsive UI + Dark Mode
+✔️ Built with React, Firebase, APIs
+
+🔗 https://github.com/varunn15/movie-explorer-app
+🌐https://moviee-react.vercel.app/
+
+### 🎯 Skill Gap Analyzer + AI Assistant
+✔️ Analyze user skills vs industry roles
+✔️ Identify missing skills instantly
+✔️ AI-powered recommendations (OpenRouter API)
+✔️ Built with React, JavaScript, API integration
+
+🔗 https://github.com/varunn15/react-skill_analyzer
+🌐 https://react-skill-analyzer.vercel.app/
+
 ---
 
 ## 🧠 Skills
